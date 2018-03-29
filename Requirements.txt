@@ -1,0 +1,10 @@
+sudo pip3 install python-docx
+sudo pip3 install requests
+sudo pip3 install simplejson
+
+I have used jupyter notebook, "word.ipynb" file can be accessd from Jupyter notebook:
+Run following commands to install Jupyter notebook
+python3 -m pip install --upgrade pip
+python3 -m pip install jupyter
+
+Alternatively, Word_Exporter.py file contains the same code which can be executed through conventional ways.
